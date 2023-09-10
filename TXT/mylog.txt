@@ -9,3 +9,12 @@ ZCZC W00 20 L05 OS Quiz related including studying.
 ZCZC W00 30 L70 Studying for other courses.
 ZCZC W00 90 L10 Doing assignment #00, including studying from slides, Youtube videos, etc.
 ZCZC W00 10 L03 Commit and push new updates for mylog.
+ZCZC W01 30 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest.
+ZCZC W01 90 L11 Assignment #01.
+ZCZC W01 90 L02 CLASSROOM/ZOOM meetings related.
+ZCZC W01 10 L64 Helping a friend (OS related problem).
+ZCZC W01 90 L02 CLASSROOM/ZOOM meetings related.
+ZCZC W01 20 L05 OS Quiz related including studying.
+ZCZC W01 90 L10 Doing assignment #01, including studying from slides, Youtube videos, etc.
+ZCZC W01 30 L21 Trying something.
+ZCZC W01 10 L03 GitHub and git related, including commit, push, pull.
