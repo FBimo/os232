@@ -25,3 +25,15 @@ ZCZC W01 35 L13 Assignment #03: LINKS/
 ZCZC W01 30 L14 Assignment #04: Finishing 
 ZCZC W01 30 L21 Trying something.
 ZCZC W01 10 L03 GitHub and git related, including commit, push, pull.
+ZCZC W02 90 L02 CLASSROOM/ZOOM meetings related.
+ZCZC W02 90 L22 Linux CLI including tar, etc.
+ZCZC W02 90 L11 Assignment #01: Readings, Watchings, and Demos
+ZCZC W02 30 L12 Assignment #02: GnuPG
+ZCZC W02 30 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W02 45 L13 Assignment #03: Update "LINKS/"
+ZCZC W02 90 L14 Assignment #04: Review links every week!
+ZCZC W02 15 L15 Assignment #05: Script Download
+ZCZC W02 30 L16 Assignment #06: Finishing
+ZCZC W02 30 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc
+ZCZC W02 20 L05 OS Quiz related including studying.
+ZCZC W02 10 L03 GitHub and git related, including commit, push, pull.
