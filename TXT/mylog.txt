@@ -33,6 +33,7 @@ ZCZC W02 30 L26 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W02 45 L13 Assignment #03: Update "LINKS/"
 ZCZC W02 90 L14 Assignment #04: Review links every week!
 ZCZC W02 15 L15 Assignment #05: Script Download
+ZCZC W02 60 L24 Scripting in general.
 ZCZC W02 30 L16 Assignment #06: Finishing
 ZCZC W02 30 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc
 ZCZC W02 20 L05 OS Quiz related including studying.
