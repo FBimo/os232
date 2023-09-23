@@ -13,5 +13,9 @@ In this video, NetworkChuck shows you the top 60 Linux commands you NEED to know
 This is course designed by the Software Carpentry Foundation. There you will find a full complement of lessons on using the CLI
 * [Bash Scripting Tutorial for Beginners](https://youtu.be/tK9Oc6AEnR4?si=PcOMSHLEHX26w1m4) ---
 Learn bash scripting in this crash course for beginners. Understanding how to use bash scripting will enhance your productivity by automating tasks, streamlining processes, and making your workflow more efficient.
+* [Mount a File System on Linux](https://www.linode.com/docs/guides/mount-file-system-on-linux/) ---
+Simple tutorial for mounting file systems in Linux.
+* [Linux Explained | Mounting File Systems](https://youtu.be/ssdFIWbVKZ4?si=Wz28GF3sS7SogyWo) ---
+Find out how to mount and unmount file systems in the Linux operating system.
 <br>
 <hr>
