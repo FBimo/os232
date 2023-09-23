@@ -1,4 +1,5 @@
 # OS232
-1. [mylog](TXT/mylog.txt)
-2. [GitHub](https://github.com/FBimo/os232)
-3. [LINKS](links.md)
+
+|| [LINKS](links.md) || [LOG](TXT/mylog.txt) || [GitHub](https://github.com/FBimo/os232/) ||
+
+#### REV2: Sat 23 Sep 2023 00:40
