@@ -17,5 +17,9 @@ Learn bash scripting in this crash course for beginners. Understanding how to us
 Simple tutorial for mounting file systems in Linux.
 * [Linux Explained | Mounting File Systems](https://youtu.be/ssdFIWbVKZ4?si=Wz28GF3sS7SogyWo) ---
 Find out how to mount and unmount file systems in the Linux operating system.
+* [How to Make a Simple Makefile - Makefile Introduction](https://youtu.be/_r7i5X0rXJk?si=59ZY2OPUJiytjfiN) ---
+A less than 10 minutes video that will help you to make a simple Makefile.
+* [C Programming Tutorial for Beginners](https://youtu.be/KJgsSFOSQv0?si=UQyrUiSUdK1lZxi2) ---
+This course will give you a full introduction into all of the core concepts in the C programming language.
 <br>
 <hr>
