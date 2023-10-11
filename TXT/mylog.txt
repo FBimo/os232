@@ -1,7 +1,21 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-
+ZCZC W05 100 L02 CLASSROOM/ZOOM meetings related.
+ZCZC W05 120 L11 Assignment #01: Readings and Demos
+ZCZC W05 60 L12 Assignment #02: How Low (Memory) Can You Go?
+ZCZC W05 100 L02 CLASSROOM/ZOOM meetings related.
+ZCZC W05 90 L13 Assignment #03: Script Download (User Mode)
+ZCZC W05 45 L05 OS Quiz related including studying.
+ZCZC W05 110 L14 Assignment #04: Memory
+ZCZC W05 65 L24 Scripting in general.
+ZCZC W05 60 L25 C-language including Make.
+ZCZC W05 45 L21 Trying something.
+ZCZC W05 100 L06 References/Books/Documents/Browsing/GSGS>
+ZCZC W05 30 L32 YouTube: watching OS related topics, etc.
+ZCZC W05 20 L08 OS Chat related (WA, LINE, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W05 45 L15 Assignment #05: Finishing
+ZCZC W05 15 L03 GitHub and git related, including commit
 ZCZC W04 90 L02 CLASSROOM/ZOOM meetings related.
 ZCZC W04 75 L11 Assignment #01: Readings and Demos
 ZCZC W04 90 L02 CLASSROOM/ZOOM meetings related.

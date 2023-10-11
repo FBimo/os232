@@ -21,5 +21,9 @@ Find out how to mount and unmount file systems in the Linux operating system.
 A less than 10 minutes video that will help you to make a simple Makefile.
 * [C Programming Tutorial for Beginners](https://youtu.be/KJgsSFOSQv0?si=UQyrUiSUdK1lZxi2) ---
 This course will give you a full introduction into all of the core concepts in the C programming language.
+* [Linux Crash Course - Understanding Memory and Swap Usage](https://youtu.be/XTMyJ5l0GLg?si=zlBlICzSFbkaNk7v) ---
+In this video, we'll take a look at understanding memory and swap usage.
+* [Compressing and Archiving Files in the Linux Console (tar, xz, bzip2, zip)](https://youtu.be/d4PAEbHcLVg?si=SHdGeOMHmq_dFFQh) ---
+Learn about Compression Tools and Archiving Files including Directories in Linux.
 <br>
 <hr>
