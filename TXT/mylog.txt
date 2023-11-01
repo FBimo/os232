@@ -1,6 +1,66 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W00 15 L03 GitHub and git related, create a local r>ZCZC W00 90 L02 CLASSROOM/ZOOM meetings related.
+ZCZC W00 25 L31 VirtualBox: install GNU/Linux.
+ZCZC W00 90 L02 CLASSROOM/ZOOM meetings related.
+ZCZC W00 20 L05 OS Quiz related including studying.
+ZCZC W00 30 L70 Studying for other courses.
+ZCZC W00 10 L11 Assignment #01: GitHub Account.
+ZCZC W00 10 L12 Assignment #02: "TXT/mylog.txt".
+ZCZC W00 15 L13 Assignment #03: Create Your GitHub Page.
+ZCZC W00 25 L14 Assignment #04: Course Registration.
+ZCZC W00 60 L15 Assignment #05: Reading Assignment.
+ZCZC W00 30 L16 Assignment #06: Revisit "TXT/mylog.txt".
+ZCZC W00 10 L03 Commit and push new updates for mylog.
+ZCZC W01 30 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest.
+ZCZC W01 90 L11 Assignment #01: Setup a virtual Debian Guest.
+ZCZC W01 90 L02 CLASSROOM/ZOOM meetings related.
+ZCZC W01 10 L64 Helping a friend (OS related problem).
+ZCZC W01 90 L02 CLASSROOM/ZOOM meetings related.
+ZCZC W01 20 L05 OS Quiz related including studying.
+ZCZC W01 60 L12 Assignment #02: The ATM way: GSGS and read.
+ZCZC W01 35 L13 Assignment #03: LINKS/
+ZCZC W01 30 L14 Assignment #04: Finishing
+ZCZC W01 30 L21 Trying something.
+ZCZC W01 10 L03 GitHub and git related, including commit, push, pull.
+ZCZC W02 90 L02 CLASSROOM/ZOOM meetings related.
+ZCZC W02 90 L22 Linux CLI including tar, etc.
+ZCZC W02 90 L11 Assignment #01: Readings, Watchings, and Demos
+ZCZC W02 30 L12 Assignment #02: GnuPG
+ZCZC W02 30 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W02 45 L13 Assignment #03: Update "LINKS/"
+ZCZC W02 90 L14 Assignment #04: Review links every week!
+ZCZC W02 15 L15 Assignment #05: Script Download
+ZCZC W02 60 L24 Scripting in general.
+ZCZC W02 30 L16 Assignment #06: Finishing
+ZCZC W02 30 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc
+ZCZC W02 20 L05 OS Quiz related including studying.
+ZCZC W02 10 L03 GitHub and git related, including commit, push, pull.
+ZCZC W03 90 L02 CLASSROOM/ZOOM meetings related.
+ZCZC W03 90 L11 Assignment #01: Readings and Demos
+ZCZC W03 45 L12 Assignment #02: Add/Create An Extra Virtual Disk
+ZCZC W03 30 L13 Assignment #03: Script Download
+ZCZC W03 45 L14 Assignment #04: Finishing
+ZCZC W03 90 L02 CLASSROOM/ZOOM meetings related.
+ZCZC W03 35 L21 Trying something.
+ZCZC W03 20 L05 OS Quiz related including studying.
+ZCZC W03 60 L60 Install/Reinstall/Restore/Backup Desktop or Laptop.
+ZCZC W03 30 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W03 30 L24 Scripting in general.
+ZCZC W03 10 L03 GitHub and git related, including commit, push, pull.
+ZCZC W04 90 L02 CLASSROOM/ZOOM meetings related.
+ZCZC W04 75 L11 Assignment #01: Readings and Demos
+ZCZC W04 90 L02 CLASSROOM/ZOOM meetings related.
+ZCZC W04 45 L05 OS Quiz related including studying.
+ZCZC W04 30 L24 Scripting in general.
+ZCZC W04 50 L25 C-language including Make.
+ZCZC W04 35 L21 Trying something.
+ZCZC W04 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 45 L12 Assignment #02: Compiling The Linux Programming Interface (TLPI)
+ZCZC W04 30 L32 YouTube: watching OS related topics, etc.
+ZCZC W04 60 L13 Assignment #03: Finishing
+ZCZC W04 10 L03 GitHub and git related, including commit, push, pull
 ZCZC W05 100 L02 CLASSROOM/ZOOM meetings related.
 ZCZC W05 120 L11 Assignment #01: Readings and Demos
 ZCZC W05 60 L12 Assignment #02: How Low (Memory) Can You Go?
@@ -16,63 +76,16 @@ ZCZC W05 30 L32 YouTube: watching OS related topics, etc.
 ZCZC W05 20 L08 OS Chat related (WA, LINE, Telegram, Signal) with AsDos, Friend, etc.
 ZCZC W05 45 L15 Assignment #05: Finishing
 ZCZC W05 15 L03 GitHub and git related, including commit
-ZCZC W04 90 L02 CLASSROOM/ZOOM meetings related.
-ZCZC W04 75 L11 Assignment #01: Readings and Demos
-ZCZC W04 90 L02 CLASSROOM/ZOOM meetings related.
-ZCZC W04 45 L05 OS Quiz related including studying.
-ZCZC W04 30 L24 Scripting in general.
-ZCZC W04 50 L25 C-language including Make.
-ZCZC W04 35 L21 Trying something.
-ZCZC W04 30 L06 References/Books/Documents/Browsing/GSGS related
-ZCZC W04 45 L12 Assignment #02: Compiling The Linux Programming Interface (TLPI)
-ZCZC W04 30 L32 YouTube: watching OS related topics, etc.
-ZCZC W04 60 L13 Assignment #03: Finishing
-ZCZC W04 10 L03 GitHub and git related, including commit, push, pull
-ZCZC W03 90 L02 CLASSROOM/ZOOM meetings related.
-ZCZC W03 90 L11 Assignment #01: Readings and Demos
-ZCZC W03 45 L12 Assignment #02: Add/Create An Extra Virtual Disk
-ZCZC W03 30 L13 Assignment #03: Script Download
-ZCZC W03 45 L14 Assignment #04: Finishing
-ZCZC W03 90 L02 CLASSROOM/ZOOM meetings related.
-ZCZC W03 35 L21 Trying something.
-ZCZC W03 20 L05 OS Quiz related including studying.
-ZCZC W03 60 L60 Install/Reinstall/Restore/Backup Desktop or Laptop
-ZCZC W03 30 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
-ZCZC W03 30 L24 Scripting in general.
-ZCZC W03 10 L03 GitHub and git related, including commit, push, pull
-ZCZC W02 90 L02 CLASSROOM/ZOOM meetings related.
-ZCZC W02 90 L22 Linux CLI including tar, etc.
-ZCZC W02 90 L11 Assignment #01: Readings, Watchings, and Demos
-ZCZC W02 30 L12 Assignment #02: GnuPG
-ZCZC W02 30 L26 GnuPG, key-gen, encrypt/decrypt.
-ZCZC W02 45 L13 Assignment #03: Update "LINKS/"
-ZCZC W02 90 L14 Assignment #04: Review links every week!
-ZCZC W02 15 L15 Assignment #05: Script Download
-ZCZC W02 60 L24 Scripting in general.
-ZCZC W02 30 L16 Assignment #06: Finishing
-ZCZC W02 30 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc
-ZCZC W02 20 L05 OS Quiz related including studying.
-ZCZC W02 10 L03 GitHub and git related, including commit, push, pull.
-ZCZC W01 30 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest.
-ZCZC W01 90 L11 Assignment #01: Setup a virtual Debian Guest.
-ZCZC W01 90 L02 CLASSROOM/ZOOM meetings related.
-ZCZC W01 10 L64 Helping a friend (OS related problem).
-ZCZC W01 90 L02 CLASSROOM/ZOOM meetings related.
-ZCZC W01 20 L05 OS Quiz related including studying.
-ZCZC W01 60 L12 Assignment #02: The ATM way: GSGS and read.
-ZCZC W01 35 L13 Assignment #03: LINKS/
-ZCZC W01 30 L14 Assignment #04: Finishing
-ZCZC W01 30 L21 Trying something.
-ZCZC W01 10 L03 GitHub and git related, including commit, push, pull.
-ZCZC W00 15 L03 GitHub and git related, create a local r>ZCZC W00 90 L02 CLASSROOM/ZOOM meetings related.
-ZCZC W00 25 L31 VirtualBox: install GNU/Linux.
-ZCZC W00 90 L02 CLASSROOM/ZOOM meetings related.
-ZCZC W00 20 L05 OS Quiz related including studying.
-ZCZC W00 30 L70 Studying for other courses.
-ZCZC W00 10 L11 Assignment #01: GitHub Account.
-ZCZC W00 10 L12 Assignment #02: "TXT/mylog.txt".
-ZCZC W00 15 L13 Assignment #03: Create Your GitHub Page.
-ZCZC W00 25 L14 Assignment #04: Course Registration.
-ZCZC W00 60 L15 Assignment #05: Reading Assignment.
-ZCZC W00 30 L16 Assignment #06: Revisit "TXT/mylog.txt".
-ZCZC W00 10 L03 Commit and push new updates for mylog.
+ZCZC W06 100 L02 CLASSROOM/ZOOM meetings related.
+ZCZC W06 120 L11 Assignment #01: Readings and Demos
+ZCZC W06 60 L12 Assignment #02: Script Download
+ZCZC W06 100 L02 CLASSROOM/ZOOM meetings related.
+ZCZC W06 90 L13 Assignment #03: Fork and Shared Memory
+ZCZC W06 50 L24 Scripting in general.
+ZCZC W06 60 L25 C-language including Make.
+ZCZC W06 45 L21 Trying something.
+ZCZC W06 90 L06 References/Books/Documents/Browsing/GSGS>
+ZCZC W06 35 L32 YouTube: watching OS related topics, etc.
+ZCZC W06 20 L08 OS Chat related (WA, LINE, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W06 60 L14 Assignment #04: Finishing
+ZCZC W06 15 L03 GitHub and git related, including commit
