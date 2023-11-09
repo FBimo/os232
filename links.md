@@ -26,8 +26,12 @@ In this video, we'll take a look at understanding memory and swap usage.
 * [Compressing and Archiving Files in the Linux Console (tar, xz, bzip2, zip)](https://youtu.be/d4PAEbHcLVg?si=SHdGeOMHmq_dFFQh) ---
 Learn about Compression Tools and Archiving Files including Directories in Linux.
 * [fork() in linux](https://youtu.be/CaWgJIbwb-4?si=BahSgcOgoe0ph7Oz) ---
-This video explains fork function in linux by using simple examples and code with outputs..
+This video explains fork function in linux by using simple examples and code with outputs.
 * [Difference Between Process and Thread](https://youtu.be/O3EyzlZxx3g?si=POmxQNTXZDWEtAc5) ---
 In this video, we'll learn the difference between thread and process in less than 5 minutes.
+* [Process Synchronization](https://youtu.be/ph2awKa8r5Y?si=ZXBeUdoeBUrisKj9) ---
+In this video, we'll learn the basic of synchronization process in OS.
+* [Shared Memory Systems](https://youtu.be/uHtzOFwgD74?si=KKiwuwVv53jez8Q0) ---
+This video will discuss about shared memory systems and how it works.
 <br>
 <hr>
