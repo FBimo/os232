@@ -33,5 +33,9 @@ In this video, we'll learn the difference between thread and process in less tha
 In this video, we'll learn the basic of synchronization process in OS.
 * [Shared Memory Systems](https://youtu.be/uHtzOFwgD74?si=KKiwuwVv53jez8Q0) ---
 This video will discuss about shared memory systems and how it works.
+* [Introduction to CPU Scheduling](https://youtu.be/EWkQl0n0w5M?si=EejciBhV9wZ4kh3o) ---
+In this video, we'll learn the basic of CPU scheduling in OS.
+* [Introduction - How to build Linux From Scratch (LFS) 12.0](https://youtu.be/685qdaX9YQc?si=R_3Jkg5Z30dv0RVm) ---
+This video will guide us to build linux from scratch.
 <br>
 <hr>

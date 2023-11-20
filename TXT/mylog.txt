@@ -105,3 +105,19 @@ ZCZC W07 15 L08 OS Chat related (WA, LINE, Telegram, Signal) with AsDos, Friend,
 ZCZC W07 60 L14 Assignment #04: Finishing
 ZCZC W07 15 L62 Backup Virtual Debian Guest
 ZCZC W07 15 L03 GitHub and git related, including commit, push, pull.
+
+ZCZC W08 60 L05 Quiz related including studying.
+ZCZC W08 15 L24 Scripting in general.
+ZCZC W08 30 L25 C-language including Make.
+ZCZC W08 110 L11 Assignment #01: Readings and Demos
+ZCZC W08 60 L12 Assignment #02: Script Download (User Mode)
+ZCZC W08 100 L02 CLASSROOM/ZOOM meetings related.
+ZCZC W08 120 L13 Assignment #03: Linux From Scratch 12.0 Ch. 1-5
+ZCZC W08 15 L08 OS Chat related (WA, LINE, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W08 45 L21 Trying something.
+ZCZC W08 90 L06 References/Books/Documents/Browsing/GSGS
+ZCZC W08 35 L32 YouTube: watching OS related topics, etc.
+ZCZC W08 15 L08 OS Chat related (WA, LINE, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W08 60 L14 Assignment #04: Finishing
+ZCZC W08 15 L62 Backup Virtual Debian Guest
+ZCZC W08 15 L03 GitHub and git related, including commit, push, pull.
