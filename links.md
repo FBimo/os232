@@ -37,5 +37,9 @@ This video will discuss about shared memory systems and how it works.
 In this video, we'll learn the basic of CPU scheduling in OS.
 * [Introduction - How to build Linux From Scratch (LFS) 12.0](https://youtu.be/685qdaX9YQc?si=R_3Jkg5Z30dv0RVm) ---
 This video will guide us to build linux from scratch.
+* [Mass storage Systems](https://youtu.be/KMETs6ONOoI?si=nYRXgQkZfBJj3WKF) ---
+This 5 minutes video will explain the basic of mass storage systems.
+* [RAID 0-6 Explained](https://youtu.be/uag1k3yvgQY?si=MgVkCxXhmkTD4FI5) ---
+An animation base video that explain about RAID in OS.
 <br>
 <hr>
