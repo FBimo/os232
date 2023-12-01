@@ -41,5 +41,9 @@ This video will guide us to build linux from scratch.
 This 5 minutes video will explain the basic of mass storage systems.
 * [RAID 0-6 Explained](https://youtu.be/uag1k3yvgQY?si=MgVkCxXhmkTD4FI5) ---
 An animation base video that explain about RAID in OS.
+* [Basics of OS (I/O Structure)](https://youtu.be/F18RiREDkwE?si=DnwkE6oml27emER-) ---
+In this video, we'll learn about the basic of I/O structure in OS.
+* [System Calls](https://youtu.be/lhToWeuWWfw?si=hrOAiYwZtW6z4Rmz) ---
+We'll learn more about OS system call in this 12 minute video.
 <br>
 <hr>

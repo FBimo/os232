@@ -135,3 +135,18 @@ ZCZC W09 35 L32 YouTube: watching OS related topics, etc.
 ZCZC W09 60 L14 Assignment #04: Finishing
 ZCZC W09 15 L62 Backup Virtual Debian Guest
 ZCZC W09 15 L03 GitHub and git related, including commit, push, pull.
+ZCZC W10 100 L02 CLASSROOM/ZOOM meetings related.
+ZCZC W10 110 L11 Assignment #01: Readings and Demos
+ZCZC W10 60 L12 Assignment #02: Script Download (User Mode)
+ZCZC W10 200 L13 Assignment #03: Linux From Scratch 12.0 Ch. 8
+ZCZC W10 30 L25 C-language including Make.
+ZCZC W10 120 L22 Linux CLI including tar, etc.
+ZCZC W10 30 L08 OS Chat related (WA, LINE, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W10 60 L05 Quiz related including studying.
+ZCZC W10 30 L24 Scripting in general.
+ZCZC W10 30 L21 Trying something.
+ZCZC W10 90 L06 References/Books/Documents/Browsing/GSGS
+ZCZC W10 30 L32 YouTube: watching OS related topics, etc.
+ZCZC W10 65 L14 Assignment #04: Finishing
+ZCZC W10 15 L62 Backup Virtual Debian Guest
+ZCZC W10 15 L03 GitHub and git related, including commit, push, pull.
